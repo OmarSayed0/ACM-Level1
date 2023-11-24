@@ -1,2 +1,1 @@
-# acm-level1
-ACMASCIS Training Level 1
+# ACMASCIS Training Level 1
